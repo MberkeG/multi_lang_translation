@@ -1,16 +1,343 @@
 [
   {
-    "url": "https://ornek.com",
-    "tr": [
-      {
-        "question": "Türkçe soru?",
-        "answer": "Türkçe cevap."
-      }
-    ],
+    "url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
     "en": [
       {
-        "question": "English question?",
-        "answer": "English answer."
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "What is a Known Traveler number?",
+        "answer": "This number is used for flights to the US and shows that the pre-flight checks and safety scans required for the trip have been completed."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "When does check-in close at the airport?",
+        "answer": "The check-in desk closes 45 minutes before departure for domestic flights and 60 minutes beforehand for international flights. This time may vary at some airports. (e.g., 120 minutes before flights from Caracas)."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: January 06, 2025",
+        "question": "How can I check the status of my lost baggage?",
+        "answer": "When your lost luggage is found, we will contact you and arrange delivery. For tracking the status of your baggage within the first five days, you can obtain information from the station contact number on the PIR, or you can track the status of lost baggage on the baggage tracking page by logging in with the reference number (e.g., ISTTK12345) from the PIR.\nIf you discover that any information on the page is incorrect (seems delivered, incorrect address, telephone, e-mail, etc.), please contact the Lost Property Office via the phone number on the PIR.\nIf your luggage has not been delivered within five days of the flight, you can submit an application via the baggage irregularity report and follow-up page.\n\nFor more information, please visit the lost, damaged, and delayed baggage page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "How are Miles earnings and spending calculated?",
+        "answer": "The amount of Miles deducted or added to your account is calculated according to the program terms at the time of the activity that earned the Miles. Turkish Airlines is authorized to set these terms and reserves the right to make changes."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: March 19, 2025",
+        "question": "What should I do about Miles that are missing from my account?",
+        "answer": "Click on the “Claim missing Miles” link in the “My Miles transactions” tab and we can process your missing Miles earned from flights with Turkish Airlines, Ajet, and other program partner airlines. In order to complete this process, you need to make an inquiry by entering the flight number, flight date, booking class, route, and ticket number. The Miles will be added to your account once the flight has been confirmed by the system. Some flights may take longer to confirm than others depending on the route flown."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "Can I change my booking details once I have made an online reservation?",
+        "answer": "After booking via our website or mobile application, it is not possible to make changes to the booking online.\nIf changes or cancellations are made through a different channel, the reservation fee will not be refunded.\nEach reservation must be ticketed within the specified time. The reservation period cannot be extended."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "Where can I find all my flight details?",
+        "answer": "You can find all the details for a specific flight by signing in to turkishairlines.com with your reservation code (PNR) or e-ticket number along with your surname. Also, if you are a member of Miles&Smiles, once you have signed in to your account, you can find details of all your past and future flights in the my flights section."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "Is there a medical assistance service at the airport?",
+        "answer": "Turkish Airlines does not provide this kind of service. However, you can use the medical services provided by the airport. For more detailed information please visit our passengers with a medical condition or disability page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/index.html",
+        "page_title": "Any Questions | Turkish Airlines ®",
+        "language": "en",
+        "modified_date": "Last modified: October 15, 2024",
+        "question": "How do I get an e-visa to enter Türkiye?",
+        "answer": "In accordance with the policies of their own country, foreign passengers travelling to Türkiye should obtain an e-visa from www.evisa.gov.tr prior to their travel, or apply in person at our international representative offices."
+      }
+    ],
+    "tr": [
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Known Traveler numarası nedir?",
+        "answer": "Bu numara Amerika uçuşları için kullanılıyor olup, seyahat için gerekli uçuş öncesi kontrollerin ve güvenlik taramalarının tamamlandığını gösterir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Havalimanında check-in işlemleri ne zaman sona erer?",
+        "answer": "İç hat seferlerinde uçuşun tarifeli saatinden 45 dakika önce, dış hat seferlerinde uçuşun tarifeli saatinden 60 dakika önce check-in işlemleri sona erer. Bu süre bazı istasyonlarda değişiklik gösterebilir. (Ör: Karakas'da 120 dakika önce)"
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Mil kazanım ve kullanım değerleri neye göre belirlenir?",
+        "answer": "Mil hesabınıza işlenen Millerin sayısı Mil kazanabileceğiniz etkinliği gerçekleştirdiğiniz dönemdeki program şartlarına göre belirlenir. Bu şartlar üzerinde Türk Hava Yolları yetkilidir ve kullanım koşulları Türk Hava Yolları tarafından değiştirilebilir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mart 19, 2025",
+        "question": "Hesabıma işlenmeyen Miller için ne yapmalıyım?",
+        "answer": "Hesabınızdaki \"Mil işlemlerim\" sekmesinde bulunan “eksik Millerinizi işleyin” linkine tıklayarak Türk Hava Yolları, Ajet ve program ortağı diğer havayolu firmalarıyla gerçekleştirdiğiniz uçuşlara ait eksik Millerinizi hesabınıza işletebilirsiniz. Bunun için uçuş numarası, uçuş tarihi, uçuş sınıfı, güzergâh ve bilet numarası bilgilerini girerek sorgulama yapmanız gerekir. Uçuşun sistem tarafından onaylanmasının ardından Miller hesabınıza işlenir. Uçulan güzergâha bağlı olarak bazı uçuşların onaylanma süresi daha uzun olabilir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "E-biletimin faturasını nasıl alabilirim?",
+        "answer": "Fatura niteliğindeki mali e-biletinize, biletinizin düzenlenmesinden itibaren en geç 72 saat içinde http://ebiletfatura.turkishairlines.com adresinden ulaşabilirsiniz. Biletinizi bir acenteden satın aldıysanız lütfen faturanızı almak için acenteye başvurunuz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Biletimi iptal ettiğimde ödediğim ücret iade edilirken kesintiye uğrar mı?",
+        "answer": "Biletinizi iptal ettiğinizde, alacağınız iadede yaşanabilecek kesintiler ücret koşullarına göre değişiklik gösterir. Ücret koşulları sayfamızı ziyaret ederek bilet ücretinizin iadesiyle ilgili bilgi alabilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Biletimi değiştirmek istediğimde biletleme servis ücreti ödemem gerekiyor mu?",
+        "answer": "Biletinizi değiştirmek istediğinizde biletleme servis ücreti ödemeniz güzergâh ve uçuş sınıfınıza bağlı olarak değişkenlik gösterir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Uçuş detaylarımı görebileceğim bir bölüm var mı?",
+        "answer": "Belirli bir uçuşla ilgili tüm detaylara rezervasyon kodunuz (PNR) ya da e-bilet numaranızı ve soyadınızı girerek Türk Hava Yolları sistemine giriş yaptıktan sonra ulaşabilirsiniz. Ayrıca Miles&Smiles üyesiyseniz üyelik numaranız ve şifrenizle giriş yaptıktan sonra hesabınızdaki \"uçuşlarım\" bölümünden geçmiş ve gelecekteki tüm uçuşlarınızı görüntüleyebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Bilgi Edin | Türk Hava Yolları ®",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Havalimanında medikal yardım hizmeti alabilir miyim?",
+        "answer": "Türk Hava Yolları olarak böyle bir hizmetimiz bulunmuyor. Ancak havalimanının verdiği medikal hizmetlerden yararlanabilirsiniz. Detaylı bilgi için hasta ve engelli yolcular sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Known Traveler numarası nedir?",
+        "answer": "Bu numara Amerika uçuşları için kullanılıyor olup, seyahat için gerekli uçuş öncesi kontrollerin ve güvenlik taramalarının tamamlandığını gösterir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Havalimanında check-in işlemleri ne zaman sona erer?",
+        "answer": "İç hat seferlerinde uçuşun tarifeli saatinden 45 dakika önce, dış hat seferlerinde uçuşun tarifeli saatinden 60 dakika önce check-in işlemleri sona erer. Bu süre bazı istasyonlarda değişiklik gösterebilir. (Ör: Karakas'da 120 dakika önce)"
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Mil kazanım ve kullanım değerleri neye göre belirlenir?",
+        "answer": "Mil hesabınıza işlenen Millerin sayısı Mil kazanabileceğiniz etkinliği gerçekleştirdiğiniz dönemdeki program şartlarına göre belirlenir. Bu şartlar üzerinde Türk Hava Yolları yetkilidir ve kullanım koşulları Türk Hava Yolları tarafından değiştirilebilir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mart 19, 2025",
+        "question": "Hesabıma işlenmeyen Miller için ne yapmalıyım?",
+        "answer": "Hesabınızdaki \"Mil işlemlerim\" sekmesinde bulunan “eksik Millerinizi işleyin” linkine tıklayarak Türk Hava Yolları, Ajet ve program ortağı diğer havayolu firmalarıyla gerçekleştirdiğiniz uçuşlara ait eksik Millerinizi hesabınıza işletebilirsiniz. Bunun için uçuş numarası, uçuş tarihi, uçuş sınıfı, güzergâh ve bilet numarası bilgilerini girerek sorgulama yapmanız gerekir. Uçuşun sistem tarafından onaylanmasının ardından Miller hesabınıza işlenir. Uçulan güzergâha bağlı olarak bazı uçuşların onaylanma süresi daha uzun olabilir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "E-biletimin faturasını nasıl alabilirim?",
+        "answer": "Fatura niteliğindeki mali e-biletinize, biletinizin düzenlenmesinden itibaren en geç 72 saat içinde http://ebiletfatura.turkishairlines.com adresinden ulaşabilirsiniz. Biletinizi bir acenteden satın aldıysanız lütfen faturanızı almak için acenteye başvurunuz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Biletimi iptal ettiğimde ödediğim ücret iade edilirken kesintiye uğrar mı?",
+        "answer": "Biletinizi iptal ettiğinizde, alacağınız iadede yaşanabilecek kesintiler ücret koşullarına göre değişiklik gösterir. Ücret koşulları sayfamızı ziyaret ederek bilet ücretinizin iadesiyle ilgili bilgi alabilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Biletimi değiştirmek istediğimde biletleme servis ücreti ödemem gerekiyor mu?",
+        "answer": "Biletinizi değiştirmek istediğinizde biletleme servis ücreti ödemeniz güzergâh ve uçuş sınıfınıza bağlı olarak değişkenlik gösterir."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Uçuş detaylarımı görebileceğim bir bölüm var mı?",
+        "answer": "Belirli bir uçuşla ilgili tüm detaylara rezervasyon kodunuz (PNR) ya da e-bilet numaranızı ve soyadınızı girerek Türk Hava Yolları sistemine giriş yaptıktan sonra ulaşabilirsiniz. Ayrıca Miles&Smiles üyesiyseniz üyelik numaranız ve şifrenizle giriş yaptıktan sonra hesabınızdaki \"uçuşlarım\" bölümünden geçmiş ve gelecekteki tüm uçuşlarınızı görüntüleyebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/",
+        "page_title": "Üyelik",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Ekim 15, 2024",
+        "question": "Havalimanında medikal yardım hizmeti alabilir miyim?",
+        "answer": "Türk Hava Yolları olarak böyle bir hizmetimiz bulunmuyor. Ancak havalimanının verdiği medikal hizmetlerden yararlanabilirsiniz. Detaylı bilgi için hasta ve engelli yolcular sayfamızı ziyaret edebilirsiniz."
+      }
+    ]
+  },
+  {
+    "url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+    "en": [
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "Do infants have a baggage allowance on flights to the United States?",
+        "answer": "Infants aged 0-2 years are entitled to one free piece of baggage in addition to a collapsible stroller. Bagges must not exceed 23 kg and the length of the stroller must not be over 115 cm. For more detailed information please visit our checked baggage page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "Do Miles&Smiles baggage privileges apply on flights to the United States?",
+        "answer": "Elite and Elite Plus members are entitled to carry one additional free bag. Please ensure that the total dimensions of this bag do not exceed 110 cm. Elite members also enjoy this privilege when flying with other Star Alliance member airlines. Please remember that Elite cards carry the same value as Star Alliance Gold Level, which is valid on other Star Alliance member airlines' flights. For more detailed information please visit our US baggage regulations page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "How many pieces of baggage can I check on a flight to the United States?",
+        "answer": "You can use our baggage calculation tool examine destination-based checked baggage rights and find out extra baggage fees. For more detailed information please visit our checked baggage page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "What are the maximum carry-on baggage dimensions on flights to the United States?",
+        "answer": "Each piece of carry-on baggage must have dimensions of no more than 23x40x55 cm and a maximum weight of 8 kg. For more detailed information please visit our cabin baggage page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "What are the maximum checked baggage dimensions allowed on flights to the United States?",
+        "answer": "The total dimensions (height, width, depth) of each bag must be no more than 158 cm. The maximum checked baggage weight allowance per passenger is 32 kg in Business Class and 23 kg in Economy Class. For more detailed information please visit our cabin baggage page."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "Is there any limit on the number of cabin baggage for my business class travels on routes departing from the USA?",
+        "answer": "Passengers traveling in Business class on flights from the USA are entitled to 2 pieces of cabin baggage and 1 piece of personal item. However, according to the requirements of TSA (Transportation Security Administration); on flights from the USA, passengers are allowed to carry one cabin baggage and one personal item with them in the cabin while passing through TSA security checkpoints at the airport, and the other cabin baggage is carried under the aircarft as checked baggage free of charge. Please do not forget to deliver your second cabin baggage to our check in counters."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/en-int/any-questions/us-baggage-rules-questions/index.html",
+        "page_title": "US baggage rules",
+        "language": "en",
+        "modified_date": "Last modified: May 12, 2025",
+        "question": "My ticket is booked for another airline, but my itinerary includes a codeshare (partner) flight with Turkish Airlines. How is my baggage allowance determined in this case?",
+        "answer": "If your ticket was purchased from an airline based in the United States, the baggage allowance determined by the airline will also apply to your codeshare (partner) flights with Turkish Airlines. For more information, please visit United Airlines' official website."
+      }
+    ],
+    "tr": [
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Amerika Birleşik Devletleri uçuşlarında bebekler için bagaj hakkı var mı?",
+        "answer": "0-2 yaş aralığındaki bebek yolcularımızın 1 parça bagaj hakkı ve buna ek olarak tamamen katlanabilir bebek arabası hakkı bulunuyor. Her bir parçanın 23 kg'ı, bebek arabası boyunun ise 115 cm'yi geçmemesi gerekiyor. Detaylı bilgi için kayıtlı bagaj sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Amerika Birleşik Devletleri uçuşlarında Miles&Smiles üyesi yolculara bagaj konusunda ayrıcalıklar tanıyor musunuz?",
+        "answer": "Elite ve Elite Plus üyesi olduğunuzda, ücretsiz olarak ilave 1 parça bagaj hakkına sahip olursunuz. Bu bagajın boyutunun 110 cm'yi geçmemesine dikkat etmeniz gerekiyor. Elite üyelerimiz, Star Alliance üyesi diğer havayolu firmalarıyla seyahat ettiğinde de bu avantajdan faydalanabiliyor. Elite kartınızın, Star Alliance üyesi diğer havayolu firmalarında geçerli olan Star Alliance Gold Level ile eş değer olduğunu hatırlatalım. Detaylı bilgi için ABD bagaj kuralları sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Amerika Birleşik Devletleri uçuşumda en fazla kaç adet bagaj götürebilirim?",
+        "answer": "Destinasyon bazlı kayıtlı bagaj haklarını incelemek ve ekstra bagaj ücretlerini öğrenmek için bagaj hesaplama aracımızı kullanabilirsiniz. Detaylı bilgi için kayıtlı bagaj sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Amerika Birleşik Devletleri uçuşlarında kabin bagajımın ölçüleri ne kadar olmalı?",
+        "answer": "Kabin bagajı olarak, her bir bagajın ağırlığı en fazla 8 kg, boyutları ise en fazla 23x40x55 cm olan bagajları alabilirsiniz. Detaylı bilgi için kabin bagajı sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Amerika Birleşik Devletleri uçuşlarında bagajımın boyutu en fazla ne kadar olmalı?",
+        "answer": "Her bir bagajınızın en, boy ve yükseklik toplamı en fazla 158 cm olabilir. Business Class kabininde uçarken parça başı en fazla 32 kg, Economy Class kabinindeyse parça başı en fazla 23 kg bagaj götürebilirsiniz. Detaylı bilgi için kabin bagajı sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "ABD’den yapılan business sınıfındaki seyahatlerimde kabin bagajı adetinde herhangi bir sınırlama var mıdır?",
+        "answer": "ABD'den yapılan seferlerde Business sınıfında seyahat eden yolcularımızın 2 adet kabin bagajı ve 1 adet kişisel eşya hakkı bulunmaktadır. Ancak TSA (Transportation Security Administration) gerekliliklerine göre; ABD’den yapılan seferlerde yolcuların havalimanında TSA güvenlik kontrol noktalarından geçişlerde bir kabin bagajını ve bir kişisel eşyasını yanında kabin içerisinde diğer kabin bagajı ise ücretsiz olarak kayıtlı bagaj olarak uçak altında taşınır. Lütfen ikinci kabin bagajınızı check in bankolarımıza teslim etmeyi unutmayınız. Detaylı bilgi için kabin bagajı sayfamızı ziyaret edebilirsiniz."
+      },
+      {
+        "page_url": "https://www.turkishairlines.com/tr-tr/bilgi-edin/abd-bagaj-kurallari-sorulari/index.html",
+        "page_title": "ABD serbest bagaj kuralları",
+        "language": "tr",
+        "modified_date": "Son güncelleme: Mayıs 12, 2025",
+        "question": "Biletim başka bir hava yoluna ait, ancak seyahatimde Türk Hava Yolları ile ortak bir uçuş bulunuyor. Bu durumda bagaj hakkım nasıl belirlenir?",
+        "answer": "Biletiniz Amerika Birleşik Devletleri merkezli bir hava yoluna ait ise, biletinizi satın aldığınız hava yolunun belirlediği bagaj hakkı, Türk Hava Yolları ile gerçekleştirdiğiniz ortak uçuşlarda da geçerli olacaktır. Detaylı bilgi için United Airlines resmi internet sitesini ziyaret edebilirsiniz."
       }
     ]
   }

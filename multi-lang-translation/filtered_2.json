@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://ornek.com",
+    "tr": [
+      {
+        "question": "Türkçe soru?",
+        "answer": "Türkçe cevap."
+      }
+    ],
+    "en": [
+      {
+        "question": "English question?",
+        "answer": "English answer."
+      }
+    ]
+  }
+]

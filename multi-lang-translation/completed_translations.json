@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://ornek.com",
+    "tr": [
+      {
+        "question": "Türkçe soru?",
+        "answer": "Türkçe cevap."
+      }
+    ],
+    "en": [
+      {
+        "question": "English question?",
+        "answer": "English answer.",
+        "language": "en",
+        "modified_date": "Translated by Helsinki-NLP",
+        "page_url": "https://ornek.com",
+        "page_title": "Example Page"
+      }
+    ]
+  }
+]
